@@ -14,3 +14,4 @@ qiskit
 matplotlib
 qiskit-ibm-runtime
 pylatexenc
+dotenv
