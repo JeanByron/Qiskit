@@ -1,0 +1,5 @@
+.conda/
+pycache/
+*.pyc
+.env
+.ipynb_checkpoints/

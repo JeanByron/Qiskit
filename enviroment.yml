@@ -1,0 +1,16 @@
+name: qiskit-project
+
+channels:
+
+conda-forge
+defaults
+
+dependencies:
+
+python=3.12
+pip
+pip:
+qiskit
+matplotlib
+qiskit-ibm-runtime
+pylatexenc
